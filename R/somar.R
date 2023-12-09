@@ -1,9 +1,9 @@
 #' somar return the sum of x and y
 #'
-#' @param x numeric value
-#' @param y numeric value
+#' @param x A numeric value
+#' @param y A numeric value
 #'
-#' @return x + y
+#' @return A numeric value from x + y
 #' @export
 #'
 #' @examples
