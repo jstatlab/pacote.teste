@@ -7,12 +7,12 @@
 somar(x, y)
 }
 \arguments{
-\item{x}{numeric value}
+\item{x}{A numeric value}
 
-\item{y}{numeric value}
+\item{y}{A numeric value}
 }
 \value{
-x + y
+A numeric value from x + y
 }
 \description{
 somar return the sum of x and y

@@ -7,7 +7,7 @@
 #' @export
 #'
 #' @examples
-#' dividir(x, y)
+#' dividir(1, 1)
 #'
 dividir <- function(x, y) {
   x / y

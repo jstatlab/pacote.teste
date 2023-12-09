@@ -7,7 +7,7 @@
 #' @export
 #'
 #' @examples
-#' multiplicar(x, y)
+#' multiplicar(1, 1)
 #'
 multiplicar <- function(x, y) {
   x * y
